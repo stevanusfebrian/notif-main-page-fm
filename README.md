@@ -29,7 +29,7 @@ Users should be able to:
 
 ![mobile](screenshots/mobile.png)
 
-![mobile read](screenshots/mobile all read.png)
+![mobile read](screenshots/mobile-all-read.png)
 
 ### Links
 
